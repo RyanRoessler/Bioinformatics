@@ -1,5 +1,5 @@
 # "Bioinformatics I: Finding Hidden Messages in DNA"  
-# Course from UCSD: Honors track with programming assignments  
+      Course from UCSD: Honors track with programming assignments  
       
   - Module 1: **Finding Origins of Replication (*ori* sites)**  
 
