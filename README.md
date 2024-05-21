@@ -1,4 +1,4 @@
-# Course from UCSD: "Bioinformatics I: Finding Hidden Messages in DNA"  
+# "Bioinformatics I: Finding Hidden Messages in DNA" - Course from UCSD  
       
   - Module 1: **Finding Origins of Replication (*ori* sites)**  
 
