@@ -1,6 +1,6 @@
 # Bioinformatics  
 
-- This repository contains solutions to programming assignments from Bioinformatics courses, as well as miscellaneous functions and scripts I've written pertaining to common bioinformatics problems.
+This repository contains solutions to programming assignments from Bioinformatics courses, as well as miscellaneous functions and scripts I've written pertaining to common bioinformatics problems.
 
 - "Bioinformatics I: Finding Hidden Messages in DNA"
 
